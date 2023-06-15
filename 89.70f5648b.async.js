@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[89],{"/fWj":function(p,c,n){p.exports=n.p+"static/xc_react.b1acae45.png"}}]);
